@@ -34,9 +34,9 @@ The page utilizes custom CSS for styling, with careful attention to mimic the de
 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/netflix-landing-page-clone.git
+   git clone https://github.com/abhayjeet5465/netflix-landing-page-clone.git
 2. Navigate to the project directory:
-   cd netflix-landing-page-clone
+   cd netflix
 3. Open `netflix.html` in your browser to view the landing page.
 
  Contributing
